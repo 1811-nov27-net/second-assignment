@@ -1,4 +1,4 @@
-using PalindromeClass.Library;
+using Palindrome.Library;
 using System;
 using Xunit;
 
