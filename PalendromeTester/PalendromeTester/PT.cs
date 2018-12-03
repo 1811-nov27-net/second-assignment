@@ -21,7 +21,7 @@ namespace PalendromeTester
             input = input.ToLower();
             for (int i=0; i < input.Length; i++)
             {
-                if((input[i]>='A'&& input[i]<='Z') || (input[i]>='a' && input[i] <= 'z'))
+                if((input[i]>='A'&& input[i]<='Z') || (input[i]>='a' && input[i] <= 'z') || (input[i]>='0' && input[i] <= '9'))
                 {
                     ret += input[i];
                 }
