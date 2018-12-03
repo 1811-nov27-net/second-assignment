@@ -10,31 +10,28 @@ namespace PalindromeTesting.test
 
         [Theory]
         // Valid palindromes
-        [InlineData(true, 
-                    "nurses run",
-                    "racecaR",
-                    "1221",
-                    "never odd, or even.")]
+        [InlineData(true, "aabaa")]
+        [InlineData(true, "nurses run")]
+        [InlineData(true, "racecaR")]
+        [InlineData(true, "1221")]
+        [InlineData(true, "never odd, or even.")]
+
         // Invalid palindromes
-        [InlineData(false,
-                    "one two one", 
-                    "123abccba123")]
-        public void StringIsAPalindrome(bool expected, params string[] inputString)
+        [InlineData(false, "one two one")]
+        [InlineData(false, "123abccba123")]
+        [InlineData(false, "")]
+        [InlineData(false, null)]
+        public void StringIsAPalindrome(bool expected, string inputString)
         {
             // Arrange
             // Data is already arranged through inline data
 
             // Act
-            foreach (string s in inputString)
-            {
-                bool actual = Palindrome.IsPalindrome(s);
-                // Asserting in the foreach loop since I want
-                //  to test each string provided through
-                //  InlineData
-                Assert.True(expected == actual);
-            }
-
+            bool actual = Palindrome.IsPalindrome(inputString);
+            
             // Assert
+            Assert.True(expected == actual);
+
 
         }
     }
