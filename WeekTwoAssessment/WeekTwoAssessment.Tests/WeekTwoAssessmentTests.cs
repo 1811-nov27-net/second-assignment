@@ -7,15 +7,37 @@ namespace WeekTwoAssessment
 {
     public class WeekTwoAssessmentTests
     {
-        static void InstanceIsNotEmpty
+        [Fact]
+        static void InstanceIsNotEmpty()
         {
             // arrange
-            word sut = new IsPalindrome();
+            Word sut = new Word();
 
             // act
-            result = sut.
+            result = sut.name;
 
             // assert
+            Assert.NotEqual(null, result);
         }
+
+        [Theory]
+        [InlineData( new string "noon", true)]
+        [InlineData(new string "101", true)]
+        [InlineData(new string "Beau", false]
+        [InlineData(new string "1334", false]
+
+        static void PalindromeCheckForVariousArguments(string item, string expected)
+        {
+            // arrange
+            Word sut = new Word();
+
+            // act
+            actual = sut.CheckPalindrome();
+
+            // assert
+            Assert.Equal(expected, actual)
+        }
+
+
     }
 }
