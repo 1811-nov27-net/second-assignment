@@ -13,6 +13,8 @@ namespace Palindrome.Test
         [Theory]
         [InlineData("nurses run", true)]
         [InlineData("racecar", true)]
+        [InlineData("never odd, or even.", true)]
+        [InlineData("one two one", false)]
         public void CheckIfPalindromeOrNot(string phrase, bool expected)
         {
             // arrange
