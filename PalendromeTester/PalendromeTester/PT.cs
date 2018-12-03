@@ -2,7 +2,7 @@
 
 namespace PalendromeTester
 {
-    public class PalendromeTester
+    public class PT
     {
         public bool isPalendrome(string input)
         {
