@@ -32,7 +32,7 @@ namespace WeekTwoAssessment
             Word sut = new Word();
 
             // act
-            actual = sut.CheckPalindrome();
+            actual = sut.checkPalindrome();
 
             // assert
             Assert.Equal(expected, actual);
