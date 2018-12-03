@@ -1,0 +1,4 @@
+/Users/howardtran/Revature/second-assignment/Pizza.test/obj/Debug/netcoreapp2.1/test.test.csproj.CoreCompileInputs.cache
+/Users/howardtran/Revature/second-assignment/Pizza.test/obj/Debug/netcoreapp2.1/test.test.AssemblyInfoInputs.cache
+/Users/howardtran/Revature/second-assignment/Pizza.test/obj/Debug/netcoreapp2.1/test.test.AssemblyInfo.cs
+/Users/howardtran/Revature/second-assignment/Pizza.test/obj/Debug/netcoreapp2.1/test.test.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/bin/Debug/netstandard2.0/ProjectLibrary.deps.json
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/bin/Debug/netstandard2.0/ProjectLibrary.dll
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/bin/Debug/netstandard2.0/ProjectLibrary.pdb
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/Debug/netstandard2.0/ProjectLibrary.csprojAssemblyReference.cache
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/Debug/netstandard2.0/ProjectLibrary.csproj.CoreCompileInputs.cache
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/Debug/netstandard2.0/ProjectLibrary.AssemblyInfoInputs.cache
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/Debug/netstandard2.0/ProjectLibrary.AssemblyInfo.cs
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/Debug/netstandard2.0/ProjectLibrary.dll
+/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/Debug/netstandard2.0/ProjectLibrary.pdb

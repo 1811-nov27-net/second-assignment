@@ -5773,17 +5773,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/howardtran/Revature/second-assignment/Pizza.test/Pizza.test.csproj",
-      "projectName": "Pizza.test",
-      "projectPath": "/Users/howardtran/Revature/second-assignment/Pizza.test/Pizza.test.csproj",
+      "projectUniqueName": "/Users/howardtran/Revature/second-assignment/Pizza.test/test.test.csproj",
+      "projectName": "test.test",
+      "projectPath": "/Users/howardtran/Revature/second-assignment/Pizza.test/test.test.csproj",
       "packagesPath": "/Users/howardtran/.nuget/packages/",
-      "outputPath": "/Users/howardtran/Revature/second-assignment/Pizza.test/obj/",
+      "outputPath": "/Users/howardtran/Revature/second-assignment/Pizza.test/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/howardtran/.nuget/NuGet/NuGet.Config"
+        "/Users/howardtran/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

@@ -1,0 +1,4 @@
+/Users/howardtran/Revature/second-assignment/Project.UI/obj/Debug/netcoreapp2.1/Project.UI.csprojAssemblyReference.cache
+/Users/howardtran/Revature/second-assignment/Project.UI/obj/Debug/netcoreapp2.1/Project.UI.csproj.CoreCompileInputs.cache
+/Users/howardtran/Revature/second-assignment/Project.UI/obj/Debug/netcoreapp2.1/Project.UI.AssemblyInfoInputs.cache
+/Users/howardtran/Revature/second-assignment/Project.UI/obj/Debug/netcoreapp2.1/Project.UI.AssemblyInfo.cs

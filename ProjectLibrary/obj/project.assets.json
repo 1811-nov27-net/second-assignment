@@ -186,13 +186,13 @@
       "projectName": "ProjectLibrary",
       "projectPath": "/Users/howardtran/Revature/second-assignment/ProjectLibrary/ProjectLibrary.csproj",
       "packagesPath": "/Users/howardtran/.nuget/packages/",
-      "outputPath": "/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj/",
+      "outputPath": "/Users/howardtran/Revature/second-assignment/ProjectLibrary/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/howardtran/.nuget/NuGet/NuGet.Config"
+        "/Users/howardtran/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

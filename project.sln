@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.UI", "Project.UI\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectLibrary", "ProjectLibrary\ProjectLibrary.csproj", "{A74B9411-2FC9-49CE-908E-A8A7E90B2F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza.test", "Pizza.test\Pizza.test.csproj", "{37F85763-0E18-4124-BF05-561129BA426E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.test", "Pizza.test\test.test.csproj", "{37F85763-0E18-4124-BF05-561129BA426E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
