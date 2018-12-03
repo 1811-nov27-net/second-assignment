@@ -21,12 +21,12 @@ namespace WeekTwoAssessment
         }
 
         [Theory]
-        [InlineData( new string "noon", true)]
-        [InlineData(new string "101", true)]
-        [InlineData(new string "Beau", false]
-        [InlineData(new string "1334", false]
+        [InlineData("noon", true)]
+        [InlineData("101", true)]
+        [InlineData("Beau", false)]
+        [InlineData("1334", false)]
 
-        static void PalindromeCheckForVariousArguments(string item, string expected)
+        static void PalindromeCheckForVariousArguments(string item, bool expected)
         {
             // arrange
             Word sut = new Word();
@@ -35,7 +35,7 @@ namespace WeekTwoAssessment
             actual = sut.CheckPalindrome();
 
             // assert
-            Assert.Equal(expected, actual)
+            Assert.Equal(expected, actual);
         }
 
 
