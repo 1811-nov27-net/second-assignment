@@ -13,13 +13,8 @@ namespace Palindrome.Library
             _list.Add(item);
         }
 
-        /*
-        public bool PalindromeCheck()
-        {
-
-        }
-        */
-
+        // only checks to see if reverse string is equal to original string, does nothing
+        // about the issue of whitespaces in a string
         public bool PalindromeCheck(string statement)
         {
             return statement.SequenceEqual(statement.Reverse());
