@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekTwoAssessment", "WeekTwoAssessment\WeekTwoAssessment.csproj", "{F1B6EAAC-FE3B-43DA-B9E2-1C580623DC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekTwoAssessment.Library", "WeekTwoAssessment.Library\WeekTwoAssessment.Library.csproj", "{DC709DA4-96B4-4572-A2EA-27B81E359AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B6EAAC-FE3B-43DA-B9E2-1C580623DC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B6EAAC-FE3B-43DA-B9E2-1C580623DC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B6EAAC-FE3B-43DA-B9E2-1C580623DC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B6EAAC-FE3B-43DA-B9E2-1C580623DC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC709DA4-96B4-4572-A2EA-27B81E359AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC709DA4-96B4-4572-A2EA-27B81E359AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC709DA4-96B4-4572-A2EA-27B81E359AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC709DA4-96B4-4572-A2EA-27B81E359AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6DEC29-F1BC-43D6-B9CF-EABECF3DD725}
+	EndGlobalSection
+EndGlobal
