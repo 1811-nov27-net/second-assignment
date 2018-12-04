@@ -13,6 +13,14 @@ namespace Palindrome.Library
 
         public bool IsPalindrome()
         {
+            word = word.Replace(" ", "");
+            word = word.Replace(",", "");
+            word = word.Replace(".", "");
+            word = word.Replace("!", "");
+            word = word.Replace("?", "");
+            word = word.Replace(";", "");
+            word = word.ToLower();
+
             string first = word.Substring(0, word.Length / 2);
             char[] arr = word.ToCharArray();
 
